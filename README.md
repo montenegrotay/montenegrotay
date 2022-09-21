@@ -10,9 +10,9 @@
 <div align="center">
   <a href="https://github.com/montenegrotay">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=montenegrotay&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montenegrotay&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montenegrotay&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-![image](https://user-images.githubusercontent.com/111308396/191384997-3f6ca0ef-62f6-422b-9769-8cf07f42d697.png)
+![image](https://user-images.githubusercontent.com/111308396/191386284-32462a39-1549-4273-b44d-2f149f7224be.png)
 
 
 <div style="display: inline_block"><br>
@@ -30,4 +30,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
   <a href="https://www.instagram.com/eu.universodatay/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/taynaramontenegro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:montenegro.taynara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+    ![Snake animation](https://github.com/montenegrotay/montenegrotay/blob/output/github-contribution-grid-snake.svg)![image](https://user-images.githubusercontent.com/111308396/191386552-b621c7e0-5512-43e3-a858-875fe9f81fb1.png)
+
 </div>
