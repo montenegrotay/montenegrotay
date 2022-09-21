@@ -37,7 +37,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
   <a href="https://www.linkedin.com/in/taynaramontenegro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:montenegro.taynara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-    ![Snake animation](https://github.com/montenegrotay/montenegrotay/blob/output/github-contribution-grid-snake.svg)![image](https://user-images.githubusercontent.com/111308396/191393820-f6886607-3bd1-40f9-98cc-efe99e9731a1.png)
+![Snake animation](https://github.com/montenegrotay/montenegrotay/blob/output/github-contribution-grid-snake.svg)![image](https://user-images.githubusercontent.com/111308396/191393820-f6886607-3bd1-40f9-98cc-efe99e9731a1.png)
  
   
 </div>
