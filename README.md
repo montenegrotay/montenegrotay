@@ -10,7 +10,7 @@
 - 💻 Atualmente estou aprendendo Programação Web Full Stack e adquirindo conhecimento técnico em Lógica da Programação | 
 Frontend (JavaScript, HTML, CSS, Jest, React) | Backend (Node js, TypeScript, MySQL, aws, Firebase) |
 Incluindo Habilidades Soft Skills (essenciais, comportamentais, socioemocionais e cognitivas).
-- 📫 Como entrar em contato comigo: [linkedIn](https://www.linkedin.com/in/taynaramontenegro/) or [instagram](https://www.instagram.com/eu.universodatay/) 
+- 📫 Como entrar em contato comigo: [linkedIn](https://www.linkedin.com/in/montenegrotay/) or [instagram](https://www.instagram.com/eu.universodatay/) 
 - 👩 Pronome: ela/dela.
 
 
