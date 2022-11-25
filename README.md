@@ -7,11 +7,11 @@
 
 ### Sobre mim 
 
-- 💻 Atualmente estou aprendendo Programação Web Full Stack e adquirindo conhecimento técnico em Lógica da Programação | 
-Frontend (JavaScript, HTML, CSS, Jest, React) | Backend (Node js, TypeScript, MySQL, aws, Firebase) |
-Incluindo Habilidades Soft Skills (essenciais, comportamentais, socioemocionais e cognitivas).
-- 📫 Como entrar em contato comigo: [linkedIn](https://www.linkedin.com/in/montenegrotay/) or [instagram](https://www.instagram.com/eu.universodatay/) 
-- 👩 Pronome: ela/dela.
+💻 Desenvolvedora Full Stack em formação pelo Bootcamp da Labenu, onde estou finalizando o módulo de Frontend e iniciando o Backend. Já tenho conhecimento das tecnologias: HTML, CSS, JavaScript. Também participo de projetos individuais individuais e em grupo, que ocorrem semanalmente para por em prática o conhecimento teórico. Estou em busca da minha primeira oportunidade no mercado na área de programação.
+
+📫 Como entrar em contato comigo: [linkedIn](https://www.linkedin.com/in/montenegrotay/) ou [instagram](https://www.instagram.com/eu.universodatay/) 
+
+👩 Pronome: ela/dela.
 
 
 ### Ferramentas 
