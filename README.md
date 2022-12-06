@@ -7,7 +7,7 @@
 
 ### Sobre mim 
 
-💻 Desenvolvedora Full Stack em formação pelo Bootcamp da Labenu, onde estou finalizando o módulo de Frontend e iniciando o Backend. Já tenho conhecimento das tecnologias: HTML, CSS, JavaScript. Também participo de projetos individuais individuais e em grupo, que ocorrem semanalmente para por em prática o conhecimento teórico. Estou em busca da minha primeira oportunidade no mercado na área de programação.
+💻 Desenvolvedora Full Stack em formação pelo Bootcamp da Labenu, onde estou finalizando o módulo de Frontend e iniciando o Backend. Já tenho conhecimento das tecnologias: HTML, CSS, JavaScript. Também participo de projetos individuais e em grupo, que ocorrem semanalmente para por em prática o conhecimento teórico. Estou em busca da minha primeira oportunidade no mercado na área de programaçã.
 
 📫 Como entrar em contato comigo: [linkedIn](https://www.linkedin.com/in/montenegrotay/) ou [instagram](https://www.instagram.com/eu.universodatay/) 
 
